@@ -1,3 +1,3 @@
 # Projekt_DP
-Zuzanna Kulpa<<endl;
+Zuzanna Kulpa;
 Misia Krzosek <3
